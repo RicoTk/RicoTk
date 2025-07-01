@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RicoTk
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Responsive Web Design
+- 👀 I’m interested in robotics & automation
+- 🌱 I’m currently C++/ROS2/codesys
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fffnasci0@gmail.com
 
